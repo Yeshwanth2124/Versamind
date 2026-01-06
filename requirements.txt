@@ -1,0 +1,7 @@
+bitsandbytes
+transformers
+accelerate
+gradio
+pymupdf
+python-docx
+torch
